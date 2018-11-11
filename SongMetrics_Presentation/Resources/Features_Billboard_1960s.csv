@@ -1,0 +1,227 @@
+Artist,Song,WeeksAtNumberOne,Song ID,Song Popularity,Acousticness,Danceability,Energy,Liveness,Speechiness,Valence,Tempo,Instrumentalness,Loudness
+The Rolling Stones,"""(I Can't Get No) Satisfaction""",4,6x7XTxs6pE1OuimqK7JJ7p,34.0,0.0161,0.343,0.974,0.357,0.0952,0.324,131.177,0.575,-4.113
+Otis Redding,"""(Sittin' On) The Dock of the Bay""",4,5iJ82Q8TgyA0i5WGdgnL0A,4.0,0.14,0.51,0.724,0.152,0.0328,0.598,105.002,0.879,-8.367
+The Righteous Brothers,"""(You're My) Soul And Inspiration""",3,1Mcoepzm9uZ3nayQLy1O7E,0.0,0.331,0.527,0.566,0.0988,0.0272,0.366,92.07,1.78e-06,-6.427
+? & the Mysterians,"""96 Tears""",1,2OFLNihLjoH4pubiYMf4xu,17.0,0.52,0.608,0.701,0.213,0.0523,0.898,71.785,0.000253,-8.016
+Elvis Presley,"""A Big Hunk o' Love""",2,4OXR5PiY95zKeXVLfTUpXD,9.0,0.648,0.558,0.841,0.26,0.0478,0.951,87.026,0.47,-10.891
+The Beatles,"""A Hard Day's Night""",2,,,,,,,,,,,
+Peter and Gordon,"""A World Without Love""",1,3oWNqBFvMvwuH5e2wBbbjA,0.0,0.217,0.508,0.714,0.112,0.0605,0.797,130.142,0,-8.314
+The Beatles,"""All You Need Is Love""",1,3iHNFIyAqaGfZji4PqAqY8,15.0,0.0107,0.658,0.803,0.0744,0.0291,0.76,106.033,9.74e-05,-7.337
+Hollywood Argyles,"""Alley-Oop""",1,52V64jmagNUNwMf5BUUM9z,2.0,0.849,0.647,0.454,0.212,0.0545,0.88,64.56,0,-9.954
+The 5th Dimension,"""Aquarius/Let the Sunshine In""",6,0y960lWPuHuSZT4yzjlccv,22.0,0.3,0.266,0.895,0.954,0.0871,0.419,93.034,0.00803,-7.103
+Elvis Presley,"""Are You Lonesome Tonight?""",6,26kehKmcBgE1mJ3DR48vE7,21.0,0.901,0.415,0.369,0.924,0.177,0.413,132.779,0.00622,-18.137
+The Supremes,"""Baby Love""",4,2VYAJD4NUIa1dcxwsLs549,21.0,0.374,0.521,0.616,0.134,0.045,0.483,135.624,0,-5.691
+The Supremes,"""Back in My Arms Again""",1,2FvRtgh5n9PjNnlwjN3d0T,13.0,0.0623,0.722,0.834,0.0663,0.0293,0.694,121.229,0.00354,-1.316
+Jimmy Dean,"""Big Bad John""",5,2BDaa0bsIUHsWg5QkHmBSz,15.0,0.653,0.669,0.177,0.0987,0.237,0.375,131.521,0,-18.313
+The Four Seasons,"""Big Girls Don't Cry""",5,4x6ii5oZKpCpricWUiDjyA,27.0,0.362,0.435,0.482,0.501,0.0337,0.82,137.862,0.000172,-9.11
+The Marcels,"""Blue Moon""",3,1OlZd5lAOzheZjPasnZhfc,0.0,0.283,0.364,0.48,0.633,0.0329,0.462,141.914,1.95e-06,-10.999
+Bobby Vinton,"""Blue Velvet""",3,10kUQ80qgLHzif8vFomDTE,0.0,0.443,0.52,0.333,0.121,0.0266,0.525,81.498,0.000105,-14.849
+Neil Sedaka,"""Breaking Up Is Hard to Do""",2,03l4fGD810g4F2PHEnSRh8,18.0,0.685,0.712,0.873,0.068,0.039,0.962,116.39,0,-4.224
+Lawrence Welk,"""Calcutta""",2,35rLx95Da45UdnfJrOjmTQ,0.0,0.878,0.536,0.685,0.606,0.0294,0.916,83.209,0.956,-12.029
+The Beatles,"""Can't Buy Me Love""",5,4MOOxZXuvhz2y9wxdoRrce,21.0,0.229,0.539,0.434,0.0739,0.0387,0.804,104.869,1.32e-06,-8.523
+The Everly Brothers,"""Cathy's Clown""",5,58u8JljC1OxhjFoh9D7HeT,2.0,0.579,0.508,0.537,0.137,0.0339,0.886,120.109,0,-11.392
+The Dixie Cups,"""Chapel of Love""",3,1oYt8zIxjmus5ytW4ZqgI3,16.0,0.511,0.612,0.449,0.431,0.0333,0.777,116.953,0,-9.134
+The Association,"""Cherish""",3,0LxHy1lX3itDztIEX3dIoG,5.0,0.776,0.51,0.544,0.144,0.0282,0.598,110.197,0,-8.308
+The Supremes,"""Come See About Me""",2,74bmZif9fnprB5eugxgmvc,8.0,0.652,0.727,0.482,0.157,0.0392,0.869,126.317,0,-11.738
+The Fleetwoods,"""Come Softly to Me""",4,4MszoBMW2yFxHFEHmjXmiT,22.0,0.855,0.597,0.0863,0.278,0.0289,0.437,99.336,0,-19.167
+The Beatles,"""Come Together""/""Something""",1,,,,,,,,,,,
+Tommy James & the Shondells,"""Crimson and Clover""",2,5sOeJlcVO4oEYR3QKzbJmO,20.0,0.142,0.501,0.883,0.126,0.0851,0.639,121.993,0.0142,-9.753
+The Monkees,"""Daydream Believer""",4,1CQTjY9AD7p4AdRB3ad6mt,9.0,0.248,0.662,0.799,0.356,0.107,0.789,118.01,0,-5.79
+Nino TempoÂ andÂ April Stevens,"""Deep Purple""",1,5r02Sd7BtCDhHDAbHmxwL8,2.0,0.67,0.629,0.6,0.0559,0.0364,0.9,154.143,9.06e-05,-11.581
+Tommy Roe,"""Dizzy""",4,5QK3yFIfOaiVTOFgNslsjW,13.0,0.00763,0.794,0.434,0.127,0.0397,0.67,101.703,0.24,-10.112
+Manfred Mann,"""Do Wah Diddy Diddy""",2,0jmZLoM3671wOHG7XTq6nK,0.0,0.000452,0.746,0.685,0.138,0.0624,0.58,127.013,0.00479,-5.859
+The Singing Nun,"""Dominique""",4,0GK62Gfl89xPzgdtH07y3q,0.0,0.391,0.731,0.383,0.0723,0.0837,0.963,131.397,0,-13.59
+Connie Francis,"""Don't Break the Heart That Loves You""",1,4jFMvbFqcrBK7Xh626j98l,0.0,0.112,0.376,0.309,0.272,0.035,0.503,219.066,0.312,-11.295
+Petula Clark,"""Downtown""",2,1nx29C3L5QB3GOH44msObk,22.0,0.782,0.487,0.782,0.217,0.0669,0.559,137.236,1.27e-05,-8.859
+Gene Chandler,"""Duke of Earl""",3,3BWeIY6JHNvNaDFXpF858U,10.0,0.939,0.637,0.547,0.101,0.035,0.909,130.281,0,-11.362
+The Essex,"""Easier Said Than Done""",2,,,,,,,,,,,
+The Beatles,"""Eight Days a Week""",2,5PdM5BFKIXP6llYUVl6oQG,5.0,0.987,0.55,0.115,0.0916,0.0466,0.141,128.841,0.88,-15.737
+Marty Robbins,"""El Paso""",2,0seIgKmnPjWRHuh2xq56wA,21.0,0.897,0.586,0.539,0.212,0.0295,0.638,105.873,0.000272,-9.61
+Barry McGuire,"""Eve Of Destruction""",1,1p5vN70b80i8yYIL9rq66K,0.0,0.121,0.631,0.363,0.101,0.0303,0.728,116.004,0,-13.193
+Dean Martin,"""Everybody Loves Somebody""",1,6KSQAmuboVQfo6hOTYDzyk,14.0,0.917,0.265,0.462,0.389,0.0353,0.295,109.104,0,-10.954
+Connie Francis,"""Everybody's Somebody's Fool""",2,5tZjZrP0T3NUFgCmyCGRz6,0.0,0.046,0.555,0.759,0.204,0.0316,0.964,169.003,6.69e-05,-8.173
+Sly and the Family Stone,"""Everyday People""",4,4E7z4gOGCZeCAhJcN6ep0x,0.0,0.000162,0.807,0.526,0.0801,0.0342,0.252,113.996,0.824,-8.404
+Little Stevie Wonder,"""Fingertips (pt. II)""",3,,,,,,,,,,,
+Wayne Fontana & The Mindbenders,"""Game of Love""",1,5DKKeXCFTRDlK7AJ1UjIuw,3.0,0.56,0.822,0.449,0.0658,0.0394,0.961,106.03,0,-8.855
+Ray Charles,"""Georgia on My Mind""",1,2uA0IGxOfNykJCWlzm4Fgy,0.0,0.849,0.537,0.345,0.0908,0.0332,0.265,145.421,0.0489,-10.563
+The BeatlesÂ withÂ Billy Preston,"""Get Back""",5,,,,,,,,,,,
+The Rolling Stones,"""Get Off of My Cloud""",2,03T76NXnndzY5gBUdxiy4G,0.0,5.9e-05,0.525,0.566,0.173,0.0362,0.886,129.808,0.0366,-8.408
+Steve Lawrence,"""Go Away Little Girl""",2,27viufYVeLYp6SLRyeaXcv,0.0,0.742,0.181,0.338,0.135,0.0333,0.609,55.944,0,-12.134
+Young Rascals,"""Good Lovin'""",1,5kCOqwpK5x0EPJUVa2MOgh,0.0,9.35e-05,0.574,0.908,0.172,0.0332,0.847,96.995,0.477,-9.925
+Elvis Presley,"""Good Luck Charm""",2,2qgIyhwwgEPJu0b2ii40zm,0.0,0.518,0.656,0.579,0.202,0.031,0.973,124.927,0.00241,-10.336
+The Beach Boys,"""Good Vibrations""",1,3CAKQkpMjcoezvxePAeGA7,32.0,0.368,0.398,0.546,0.125,0.0354,0.353,132.987,0.000124,-5.549
+Hugh Masekela,"""Grazing in the Grass""",2,2HjZB3cdvHytvCyECaKzpH,17.0,0.108,0.798,0.828,0.203,0.0289,0.893,108.016,0.00125,-7.065
+The Lemon Pipers,"""Green Tambourine""",1,4gabKBwCuLSttaiQZuhDTw,9.0,0.744,0.588,0.525,0.0844,0.0325,0.788,112.115,0,-8.558
+Young Rascals,"""Groovin'""",4,6aNoTkefuywE8pR2AZ3OcW,20.0,0.51,0.592,0.595,0.106,0.0297,0.58,106.646,0,-4.517
+The McCoys,"""Hang On Sloopy""",1,2c5hMXH853mbn6PC7ROo1g,16.0,0.0224,0.805,0.507,0.0564,0.0328,0.96,115.281,0.000719,-10.582
+Tommy James and the Shondells,"""Hanky Panky""",2,0mDZ3f6xB5fHdMJ4y7yaLH,9.0,0.402,0.34,0.596,0.0691,0.0445,0.963,186.62,0,-8.367
+The Turtles,"""Happy Together""",3,3egMF8RgJ3UggIJK8EqPRX,22.0,0.198,0.46,0.614,0.156,0.0389,0.426,118.931,0.00272,-11.458
+Jeannie C. Riley,"""Harper Valley P.T.A.""",1,79gMSGhvxYaSYwojEdmgrB,14.0,0.705,0.669,0.449,0.173,0.0337,0.932,100.817,0,-12.608
+The Chiffons,"""He's So Fine""",4,056hpw3ddBXViwmDMmhE4Y,7.0,0.444,0.58,0.509,0.427,0.0392,0.954,75.365,0,-7.922
+The Crystals,"""He's a Rebel""",2,0qW0YJvDz0C0fDaInuWzpK,15.0,0.404,0.376,0.374,0.526,0.0276,0.448,90.969,0,-7.885
+Guy Mitchell,"""Heartaches by the Number""",2,2SBQBV1atDy4tbEfGicT7u,13.0,0.526,0.518,0.556,0.0853,0.0479,0.736,171.496,3e-06,-13.264
+Louis Armstrong,"""Hello, Dolly!""",1,6K1FJMprx4YDjJRZ0H1bsi,28.0,0.725,0.536,0.519,0.687,0.243,0.617,76.281,0.00257,-12.946
+The Beatles,"""Hello, Goodbye""",3,5zKQSVyiKUpWU7ioNo8MWZ,11.0,0.985,0.439,0.0595,0.129,0.056,0.254,76.135,0.944,-21.814
+The Doors,"""Hello, I Love You""",2,76Jl2Pcd7MPVptEpWvJUzW,31.0,0.000752,0.473,0.732,0.833,0.069,0.902,117.203,0,-9.181
+The Beach Boys,"""Help Me Rhonda""",2,2O6rBmrnIjUr8CttVTZf3T,21.0,0.495,0.589,0.654,0.0701,0.0269,0.771,135.911,3.31e-05,-7.919
+The Beatles,"""Help!""",3,,,,,,,,,,,
+The Beatles,"""Hey Jude""",9,6lnYFcHvB0qEpXHUsRnzML,14.0,0.0197,0.514,0.476,0.213,0.0256,0.374,149.025,0.000871,-8.034
+Paul & Paula,"""Hey Paula""",3,1klaHJ0VFtf7Fjf7v8vsRw,11.0,0.854,0.368,0.286,0.192,0.0331,0.3,108.445,0.193,-11.807
+Bruce Channel,"""Hey! Baby""",3,0KyUTFaDNDFDZ4Xx6eDISX,9.0,0.623,0.468,0.556,0.292,0.0302,0.828,129.6,0,-5.523
+Ray Charles,"""Hit the Road Jack""",2,230nKbzSZLZknAiW7w2PyB,0.0,0.772,0.511,0.189,0.11,0.0495,0.296,84.256,0.46,-14.127
+Bobby Goldsboro,"""Honey""",5,7gOC9ra2AE73qWEgtKAQj6,22.0,0.791,0.65,0.18,0.197,0.0331,0.529,94.203,0.00215,-18.923
+The Rolling Stones,"""Honky Tonk Women""",4,3p0wic6U0pkfEZjTKUsoFC,24.0,0.0328,0.361,0.957,0.966,0.0517,0.7,118.119,0.0207,-6.357
+The Temptations,"""I Can't Get Next To You""",2,4eMZtNMsAjRybg4edZvK6r,11.0,0.479,0.708,0.79,0.383,0.0982,0.72,109.167,0,-8.626
+Four Tops,"""I Can't Help Myself (Sugar Pie, Honey Bunch)""",2,1UaceGkp0wfT1UE4nc7Emf,34.0,0.108,0.7,0.757,0.0767,0.0283,0.965,127.743,0,-4.438
+Ray Charles,"""I Can't Stop Loving You""",5,0yno0PBSCR3jll36vKsU7r,6.0,0.931,0.189,0.166,0.137,0.0353,0.154,73.603,0.927,-17.5
+The Beatles,"""I Feel Fine""",3,,,,,,,,,,,
+The Beach Boys,"""I Get Around""",2,5Sjbcl9DDuv8pHecj7DELR,24.0,0.593,0.384,0.506,0.107,0.0546,0.531,146.676,0,-13.673
+Sonny & Cher,"""I Got You Babe""",3,4b6gTOWTXbJaHbx80s5Guv,18.0,0.831,0.495,0.126,0.136,0.0323,0.446,145.962,0.00603,-20.097
+The Supremes,"""I Hear a Symphony""",2,5XlDh5UCIscIuvhGWBUTTQ,18.0,0.669,0.534,0.688,0.171,0.0301,0.367,140.796,0,-2.789
+Marvin Gaye,"""I Heard It Through the Grapevine""",7,23JVA3Ywu2Lua6OmlwBV8k,26.0,0.191,0.726,0.393,0.103,0.0354,0.683,117.2,1.02e-06,-9.646
+Brenda Lee,"""I Want to Be Wanted""",1,2IrGapuntqbknrBhnZVNTq,0.0,0.685,0.623,0.411,0.219,0.0275,0.424,109.427,0.00139,-9.876
+The Beatles,"""I Want to Hold Your Hand""",7,2PuQcHVYgqcxaQTqrEzkRx,31.0,0.0276,0.375,0.988,0.884,0.373,0.603,135.412,0.0012,-5.404
+Little Peggy March,"""I Will Follow Him""",3,6RjdOkK59AT1aGLqUQCCqv,0.0,0.244,0.763,0.353,0.168,0.0489,0.731,125.945,0.0443,-12.613
+Herman's Hermits,"""I'm Henry VIII, I Am""",1,5cvY0uadaN3qnoMvAsGvLU,0.0,0.251,0.693,0.891,0.122,0.0568,0.961,98.735,0,-4.382
+Dale & Grace,"""I'm Leaving It Up to You""",2,1QKthfjs8HZps7H6UYUCbP,6.0,0.612,0.554,0.255,0.11,0.026,0.684,104.868,0.000137,-14.279
+Brenda Lee,"""I'm Sorry""",3,0u22YA7Rvv1fFreGp1GzD7,4.0,0.931,0.562,0.14,0.12,0.031,0.317,102.133,0.00471,-15.208
+Freddie and the Dreamers,"""I'm Telling You Now""",2,43uw7OhPwlvBlYzJRnMvLQ,0.0,0.378,0.605,0.699,0.305,0.0317,0.891,71.38,0,-6.875
+The Monkees,"""I'm a Believer""",7,02DVy3ryei1MaI4JxROdOf,16.0,0.595,0.503,0.772,0.199,0.0322,0.935,79.462,2.47e-06,-6.205
+Jimmy Soul,"""If You Wanna Be Happy""",2,47Pg1vCfnYaC11kpgqTf84,4.0,0.303,0.268,0.916,0.639,0.154,0.298,177.055,0,-7.828
+Zager and Evans,"""In the Year 2525""",6,1bGAVE25yTiuNjqMU06pc8,9.0,0.783,0.288,0.34,0.125,0.0272,0.345,83.337,0.000104,-12.004
+Strawberry Alarm Clock,"""Incense and Peppermints""",1,6ug6ptKUZytbgvptMIM6vK,20.0,0.0798,0.368,0.497,0.388,0.0319,0.736,142.12,0.00156,-13.506
+Tommy Edwards,"""It's All in the Game""",6,1lXBywJPEcn2uvxDKEqT1F,1.0,0.87,0.229,0.202,0.16,0.0303,0.175,87.053,8.34e-06,-11.554
+Lesley Gore,"""It's My Party""",2,7cKvoQHzlsCBokHqvjJo1t,16.0,0.737,0.732,0.652,0.0802,0.0468,0.97,129.976,0,-11.423
+Elvis Presley,"""It's Now or Never""",5,2CMn3OAoeYPA3v36EnxLfX,8.0,0.611,0.743,0.12,0.109,0.0499,0.305,96.408,0.944,-13.202
+Conway Twitty,"""It's Only Make Believe""",2,2wZ0TkyDd02x9i8XFlLJqn,24.0,0.792,0.554,0.486,0.137,0.0317,0.437,115.278,2.64e-05,-8.224
+Brian Hyland,"""Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini""",1,21ZT1Hu69roMXxlWaS91oD,0.0,0.379,0.914,0.81,0.0414,0.0352,0.922,124.106,0,-5.68
+Shelley Fabares,"""Johnny Angel""",2,0V6EqRrerHxX1x2shjFtEa,0.0,0.569,0.651,0.221,0.246,0.0314,0.283,108.988,0,-10.412
+John Fred & His Playboy Band,"""Judy in Disguise (With Glasses)""",2,4ym7pVF9O1bgPS6KKBJhyj,0.0,0.0298,0.75,0.486,0.0933,0.0506,0.943,162.914,0.0752,-13.602
+Wilbert Harrison,"""Kansas City""",2,4i8zROdLF6ec5sCCq5UfYy,1.0,0.476,0.654,0.729,0.928,0.0371,0.953,112.723,2.38e-05,-11.64
+The Buckinghams,"""Kind of a Drag""",2,3ML10pCBkyQKw8v7MiwAVR,5.0,0.437,0.63,0.681,0.197,0.0444,0.788,132.317,0,-11.329
+The Monkees,"""Last Train to Clarksville""",1,7ItEe2C7vthvwbJUoQu5Fe,6.0,0.445,0.142,0.865,0.611,0.0902,0.427,207.386,0.0696,-9.888
+The Shangri-Las,"""Leader of the Pack""",1,0emnG0lihOffuP7tNfAiTc,12.0,0.611,0.374,0.449,0.0969,0.0339,0.484,105.846,0,-10.141
+"Peter, Paul & Mary","""Leaving on a Jet Plane""",1,49wRHvPg7l6vjH08XjvfbA,0.0,0.953,0.799,0.48,0.12,0.0496,0.769,130.061,0.947,-7.168
+The Doors,"""Light My Fire""",3,0SePSCZcI26fNTEZtR912R,32.0,0.903,0.439,0.586,0.203,0.0462,0.5,127.198,0.0112,-12.266
+Lou Christie,"""Lightnin' Strikes""",1,6XSPjB1QDHp5UL4WdSebuU,6.0,0.661,0.527,0.355,0.133,0.0254,0.394,93.654,0.00028,-12.013
+The Elegants,"""Little Star""",1,6PjphlxIJZZ7KUBGVMEWlg,9.0,0.758,0.421,0.563,0.0572,0.0308,0.711,72.556,0,-4.668
+Paul Anka,"""Lonely Boy""",4,7hEiUCl4omcPquIxAWHT5F,0.0,0.0354,0.722,0.339,0.106,0.0431,0.923,105.473,0.91,-14.032
+Diana Ross & the Supremes,"""Love Child""",2,5y4MxVPnp4b78qRYztkmj1,16.0,0.74,0.336,0.395,0.531,0.0375,0.647,150.589,4.67e-06,-14.191
+Paul Mauriat,"""Love Is Blue""",5,0EUhHxgLvlvDcrOzIx8Mc3,15.0,0.131,0.493,0.58,0.732,0.0306,0.932,114.989,0.215,-12.629
+The Supremes,"""Love Is Here and Now You're Gone""",1,0A3xw73zQsPQPTBRiZ4ppA,10.0,0.324,0.528,0.856,0.081,0.0616,0.862,113.938,0,-2.08
+The Beatles,"""Love Me Do""",1,,,,,,,,,,,
+Henry Mancini,"""Love Theme fromÂ Romeo and Juliet""",2,2tDSPIDdcuYGfxuMZof8g1,3.0,0.99,0.387,0.134,0.124,0.032,0.168,74.641,0.944,-14.693
+Bobby Darin,"""Mack the Knife""",9,14RqZKLS9zY9f59o76x01F,11.0,0.708,0.443,0.588,0.0923,0.0561,0.802,166.623,0,-7.015
+The Highwaymen,"""Michael""",2,,,,,,,,,,,
+The Mamas & the Papas,"""Monday, Monday""",3,7tz4T0l0fJXMkMAerWwvVF,15.0,0.665,0.345,0.46,0.423,0.0291,0.74,108.001,0,-10.365
+"Bobby ""Boris"" Pickett and the Crypt-Kickers","""Monster Mash""",2,2u9I3asZltvYJKt5LyKuCS,2.0,0.872,0.89,0.349,0.302,0.0885,0.779,133.962,0.000129,-11.105
+Pat Boone,"""Moody River""",1,5TZ9QwzhqwvMzfpasMzMQO,0.0,0.427,0.762,0.552,0.0994,0.0383,0.629,128.92,0.873,-10.334
+Ernie K-Doe,"""Mother-in-Law""",1,0PHHugjAVd2XSPDvX2LxXb,5.0,0.816,0.692,0.609,0.125,0.0344,0.855,133.712,0,-7.124
+The Fleetwoods,"""Mr. Blue""",1,3bRff2IEqyTh8EkpQUqRxm,8.0,0.951,0.456,0.0744,0.111,0.0387,0.341,95.057,0.0418,-23.456
+Larry Verne,"""Mr. Custer""",1,4AHxx6HbLny0jZbVALHV1e,0.0,0.00273,0.775,0.395,0.0961,0.03,0.222,108.002,0.000543,-10.245
+Bobby Vinton,"""Mr. Lonely""",1,6x8xIapc9xcZlJ9HpCkrm9,13.0,0.804,0.37,0.185,0.288,0.028,0.31,84.392,1.35e-06,-14.335
+The Byrds,"""Mr. Tambourine Man""",1,5tEGRrYw5YnHuduUNgHmxu,27.0,0.11,0.596,0.647,0.129,0.0312,0.817,124.501,0,-8.597
+Herman's Hermits,"""Mrs. Brown, You've Got a Lovely Daughter""",3,4zCWU5TOlNcHSsTwzqjFke,7.0,0.175,0.631,0.852,0.165,0.0512,0.861,155.284,0,-6.203
+Simon & Garfunkel,"""Mrs. Robinson""",3,5SFCeGcoaFIg77aN7FE89x,35.0,0.897,0.62,0.306,0.116,0.0278,0.456,92.533,0.521,-13.96
+The Angels,"""My Boyfriend's Back""",3,5MY7WKX4OTpiqIAIxrecet,6.0,0.8,0.662,0.825,0.221,0.0957,0.96,140.602,0.000517,-6.933
+The Temptations,"""My Girl""",1,0JHS2Bm8BGhMDBVvoNY0cQ,25.0,0.239,0.635,0.616,0.326,0.0596,0.759,120.381,0,-6.104
+Mary Wells,"""My Guy""",2,726wfWe98Fj086BTZJBnMx,17.0,0.681,0.689,0.577,0.177,0.0478,0.927,126.554,2.39e-06,-7.389
+Connie Francis,"""My Heart Has a Mind of Its Own""",2,4psFw6tZj4zvxOT00xnMYD,0.0,0.194,0.642,0.311,0.268,0.0344,0.8,110.041,4.13e-06,-9.786
+Petula Clark,"""My Love""",2,3xyYW2PNjvdidM1yNTCoUO,0.0,0.00332,0.504,0.589,0.551,0.0312,0.924,170.687,0.0113,-14.769
+Steam,"""Na Na Hey Hey Kiss Him Goodbye""",2,6vqPopYdL3swl6DKbtauXY,0.0,0.000216,0.737,0.608,0.0913,0.0431,0.386,116.092,0.000171,-9.843
+Bobbie Gentry,"""Ode to Billie Joe""",4,7ruCIODfnuuvg9rbNDMCi6,16.0,0.805,0.547,0.209,0.0827,0.0314,0.432,112.421,0,-14.467
+Roy Orbison,"""Oh, Pretty Woman""",3,6ZyYDjtgUPtf8Rz2iWNH7K,29.0,0.0609,0.681,0.795,0.784,0.0316,0.759,130.238,0.00686,-8.181
+Ruby & the Romantics,"""Our Day Will Come""",1,0OuKXFYYezHiDpsBM8Dwhz,7.0,0.856,0.461,0.529,0.193,0.0347,0.522,106.642,6.41e-05,-8.602
+The Dave Clark Five,"""Over and Over""",1,,,,,,,,,,,
+The Rolling Stones,"""Paint It Black""",2,40GLe01HtLMiPMYcmqUF0o,21.0,0.0114,0.34,0.892,0.761,0.0392,0.532,151.431,0.106,-2.993
+The Beatles,"""Paperback Writer""",2,5SzzoaJoaGKoTu8lzskdpI,16.0,0.119,0.304,0.724,0.781,0.0351,0.641,157.625,0.000708,-4.69
+The Beatles,"""Penny Lane""",1,,,,,,,,,,,
+Young Rascals,"""People Got to Be Free""",5,,,,,,,,,,,
+Joey Dee and the Starliters,"""Peppermint Twist - Part 1""",3,3r3PqENkdxlsYwMXiEr4yI,1.0,0.368,0.244,0.896,0.655,0.1,0.741,199.376,1.12e-06,-5.761
+The Marvelettes,"""Please Mr. Postman""",1,0OZKqeLgL5bSeSVLgOQIvg,18.0,0.536,0.784,0.675,0.194,0.0324,0.961,120.981,0,-6.35
+Chubby Checker,"""Pony Time""",3,3sJtqKAlFZVvndAPtjI00T,13.0,0.0356,0.657,0.801,0.189,0.0719,0.922,86.085,7.3e-05,-5.853
+Ricky Nelson,"""Poor Little Fool""",2,7oKEJoeaSoO60re4Vid7g0,0.0,0.668,0.546,0.302,0.207,0.0298,0.776,155.738,0.000117,-12.809
+Johnny Rivers,"""Poor Side Of Town""",1,06jYLfD64dsTltIrVI5Sjp,0.0,1.3e-05,0.558,0.845,0.396,0.0661,0.39,92.251,0.745,-6.0
+Gary U.S. Bonds,"""Quarter to Three""",2,3CvSyG4oVksLZyDQYm8oEl,2.0,0.39,0.641,0.729,0.175,0.117,0.935,146.07,0,-7.308
+The Four Seasons,"""Rag Doll""",2,,,,,,,,,,,
+Four Tops,"""Reach Out, I'll Be There""",2,3lp6cU73sVRZ1TULR51YFv,16.0,0.139,0.64,0.717,0.166,0.0333,0.727,119.725,0,-6.531
+Aretha Franklin,"""Respect""",2,5LE9s0RGiZ6iZSLijCE9v2,37.0,0.479,0.821,0.496,0.328,0.0462,0.955,114.605,2.3e-05,-8.4
+Lorne Greene,"""Ringo""",1,2ETzTixqrH1kXrGcMWXsa0,0.0,0.0415,0.541,0.702,0.334,0.0403,0.246,110.74,0.827,-11.338
+Bobby Vinton,"""Roses Are Red (My Love)""",4,08nTDnuH9MKr09T4HYD9KT,0.0,0.75,0.637,0.416,0.296,0.0311,0.513,104.03,0.0022,-10.005
+The Rolling Stones,"""Ruby Tuesday""",1,6qYjIgcbNFfWMQL0PdDJ9C,0.0,0.395,0.531,0.485,0.13,0.0325,0.255,99.895,0,-8.222
+Dion,"""Runaround Sue""",2,2McGdOTOjG4wKQxg1mbqk7,32.0,0.35,0.559,0.665,0.0966,0.0378,0.777,114.279,0,-9.521
+Del Shannon,"""Runaway""",4,2LgQvQLnKSpk1pYy3p2ZRT,9.0,0.144,0.528,0.539,0.159,0.0463,0.741,157.475,3.99e-06,-8.019
+Johnny Preston,"""Running Bear""",3,1LIFbyQqtqfErUCNYVMgWv,0.0,0.294,0.648,0.446,0.223,0.0421,0.678,169.982,0.619,-11.974
+Roy Orbison,"""Running Scared""",1,0AAQUDC9bUNmpHVfdSLEqh,5.0,0.905,0.422,0.271,0.66,0.0951,0.536,137.712,0.00188,-15.75
+The Drifters,"""Save the Last Dance for Me""",3,6cauulLdEfFMTwopayXhRD,16.0,0.572,0.56,0.666,0.352,0.0362,0.87,142.517,0,-6.904
+The Beatles,"""She Loves You""",2,35FJvS0FrHTeT1uPlTHrsF,9.0,0.921,0.371,0.115,0.153,0.0515,0.252,155.197,0.844,-23.016
+Tommy Roe,"""Sheila""",2,4h7XggVsWTVpF4bFpuQpAO,0.0,0.271,0.24,0.468,0.0972,0.0314,0.478,183.05,3.74e-06,-9.372
+The Four Seasons,"""Sherry""",5,,,,,,,,,,,
+Santo & Johnny,"""Sleep Walk""",2,3tzIgDlmWETAHkQgmWAZsw,0.0,0.0378,0.199,0.406,0.26,0.0344,0.237,203.366,0.386,-12.362
+The Platters,"""Smoke Gets in Your Eyes""",3,7Fp5etaGaswdsSdSFq23du,10.0,0.94,0.298,0.296,0.586,0.0285,0.22,113.727,0.00019,-8.606
+The Tymes,"""So Much in Love""",1,0H5egCxkDfdjxMIsGQ0PKt,4.0,0.823,0.531,0.489,0.479,0.0325,0.637,75.73,2.69e-05,-11.136
+The Shirelles,"""Soldier Boy""",3,0V7Ic9sj1TEjEZCAWrpiPH,1.0,0.326,0.299,0.363,0.946,0.0432,0.274,72.517,0,-12.448
+Diana Ross & the Supremes,"""Someday We'll Be Together""",1,3XXaXhY2Lui2FcugrAp6k0,10.0,0.012,0.665,0.547,0.0666,0.0345,0.748,107.159,0.000516,-12.104
+Nancy SinatraÂ andÂ Frank Sinatra,"""Somethin' Stupid""",4,,,,,,,,,,,
+Lloyd Price,"""Stagger Lee""",4,6PJDubswJFw475xrz1Hzwi,0.0,0.579,0.645,0.462,0.145,0.0384,0.943,120.063,2.46e-05,-15.238
+Maurice Williams and the Zodiacs,"""Stay""",1,20Hj9GJzLHxvxLqavNwYr0,10.0,0.918,0.527,0.324,0.284,0.0272,0.545,74.749,4.22e-06,-10.235
+The Supremes,"""Stop! In the Name of Love""",2,5Rfk0U1wVNI6ej2o9rpSX5,15.0,0.625,0.701,0.576,0.137,0.0298,0.528,115.36,3.72e-06,-5.791
+Mr. Acker Bilk,"""Stranger on the Shore""?Â (1962)",1,,,,,,,,,,,
+Frank Sinatra,"""Strangers In The Night""",1,56NQoOImgsBImTuq3QcTNc,31.0,0.265,0.681,0.788,0.0768,0.0434,0.973,132.298,0,-6.584
+Elvis Presley,"""Stuck on You""",4,7iyBcdv77ygB1CP0EMu6vh,0.0,0.379,0.742,0.434,0.152,0.141,0.913,134.035,0.35,-14.007
+Jimmy Gilmer and the Fireballs,"""Sugar Shack""?Â (1963)",5,,,,,,,,,,,
+The Archies,"""Sugar, Sugar""",4,5kEAd1XMwhsyv6XkawQZvx,10.0,0.0665,0.468,0.543,0.108,0.0596,0.703,104.846,1.69e-06,-12.053
+Kyu Sakamoto,"""Sukiyaki""",3,17TIuduAWyggS5xldUdfOt,6.0,0.608,0.413,0.36,0.154,0.0305,0.406,145.161,0,-9.716
+The Lovin' Spoonful,"""Summer in the City""",3,1AhYvQwUfBnGQEdHbc5v0u,0.0,0.0582,0.414,0.44,0.0885,0.0381,0.607,110.025,4.97e-05,-18.9
+Donovan,"""Sunshine Superman""",1,4BtgYwuy4s2v4XApbgW0Rd,28.0,0.0533,0.635,0.386,0.057,0.0288,0.737,104.918,0,-15.336
+Jan and Dean,"""Surf City""",2,5k4TAzqkVx0xWvfHM0pgVg,14.0,0.572,0.447,0.577,0.0924,0.037,0.945,155.991,0,-16.15
+Elvis Presley,"""Surrender""",2,1lbzSEOT3xaywdqOVysgHr,0.0,0.325,0.587,0.619,0.13,0.184,0.568,160.697,0.916,-13.351
+Elvis Presley,"""Suspicious Minds""",1,23azuB5cpyaqyLGVro7A34,18.0,0.0419,0.471,0.443,0.349,0.0299,0.691,118.511,6.59e-06,-8.635
+Bobby Vee,"""Take Good Care of My Baby""",3,1QhVLyrR1If5e5i7TA8xwh,4.0,0.592,0.323,0.459,0.0931,0.0312,0.58,99.309,0,-11.686
+Mark Dinning,"""Teen Angel""",1,2YVSDn7e56UxOBJQgvu0re,0.0,0.799,0.434,0.348,0.139,0.0373,0.345,97.278,0,-10.121
+The Tornados,"""Telstar""",3,1oZdSCCHXHsXOGYWzhWrbN,12.0,0.593,0.498,0.853,0.244,0.182,0.655,105.587,0.934,-7.386
+Barry Sadler,"""The Ballad of the Green Berets""",5,67oVOpWrYlygXWdbJrW3ZB,0.0,0.552,0.751,0.226,0.496,0.0435,0.961,84.064,0.000448,-19.861
+Johnny Horton,"""The Battle of New Orleans""",6,7FtbA0NUfqYkuQEyNleQBC,8.0,0.768,0.667,0.731,0.102,0.0827,0.929,179.932,0,-11.29
+The ChipmunksÂ withÂ David Seville,"""The Chipmunk Song""",4,,,,,,,,,,,
+The Supremes,"""The Happening""",1,4W6lgVTiW1lbD5fU3ZsNhk,10.0,0.461,0.423,0.686,0.714,0.0403,0.905,172.641,0,-6.131
+"Dave ""Baby"" Cortez","""The Happy Organ""",1,2kUTzgylrFjiW7ovFXWfkP,0.0,0.825,0.421,0.253,0.312,0.0326,0.498,181.105,0.000116,-16.087
+The Animals,"""The House of the Rising Sun""",3,2Kql7xTJdxZcwYxEJhU1cV,10.0,0.33,0.43,0.515,0.139,0.0305,0.183,114.928,0.00342,-6.631
+Box Tops,"""The Letter""",4,2bO3cK5apgiVlSVIBUACe3,23.0,0.704,0.368,0.375,0.189,0.0355,0.647,109.069,0.012,-14.183
+The Tokens,"""The Lion Sleeps Tonight""",3,1vndnK1pWEylzsx9PPw3nK,16.0,0.4,0.383,0.602,0.132,0.041,0.556,67.674,0,-8.318
+Little Eva,"""The Loco-Motion""",1,,,,,,,,,,,
+Simon & Garfunkel,"""The Sound of Silence""",2,6geGt54PxEvlpA4LJvpAyB,27.0,0.177,0.431,0.401,0.133,0.0288,0.528,106.842,2.43e-05,-12.734
+David Rose,"""The Stripper""",1,2THJidKyv3HKV4KZB5Evab,0.0,0.438,0.597,0.323,0.13,0.0314,0.67,100.494,0.000137,-10.627
+The Browns,"""The Three Bells""",4,5sPR8s40QrljiGVNYKs56e,0.0,0.772,0.574,0.254,0.168,0.0318,0.273,107.908,7.91e-05,-16.432
+Chubby Checker,"""The Twist""",1,44iHwZr6Ka9F3QzXeITHYz,12.0,0.261,0.422,0.908,0.0955,0.0706,0.917,173.013,0,-6.789
+Percy Faith,"""Theme from 'A Summer Place'""",9,2JJFxsfl3JRt2cqk2WpfQy,12.0,0.813,0.253,0.261,0.121,0.031,0.358,175.553,8.95e-05,-16.888
+Bobby Vinton,"""There! I've Said It Again""",4,19GVyWx3KsMiJGORcDE6dZ,5.0,0.833,0.255,0.389,0.144,0.0314,0.211,140.02,0,-9.025
+Nancy Sinatra,"""These Boots Are Made for Walkin'""",1,2XqPhCGhTGHjrNPUUtspJt,0.0,0.0855,0.64,0.513,0.123,0.0831,0.138,165.569,6.46e-06,-9.464
+Gary Lewis & The Playboys,"""This Diamond Ring""",2,5sBfroy9r6X71nFYrw2tqn,12.0,0.278,0.611,0.598,0.184,0.027,0.617,133.038,0,-8.612
+Herb Alpert,"""This Guy's in Love with You""",4,6MkCebM6CaQYJFER0tAXTD,0.0,0.876,0.541,0.268,0.104,0.0257,0.158,81.968,0.962,-11.042
+The Beatles,"""Ticket to Ride""",1,,,,,,,,,,,
+Archie Bell & the Drells,"""Tighten Up""",2,46FsV3QRk7R55jp9F9NAvR,16.0,0.0712,0.439,0.278,0.102,0.0301,0.265,138.027,2.07e-05,-16.264
+The Teddy Bears,"""To Know Him Is to Love Him""",3,6BqmDBwF5thfESvDuhfahM,0.0,0.404,0.739,0.24,0.11,0.351,0.96,172.939,0.714,-17.758
+Lulu,"""To Sir With Love""",5,5KiXgwrhSRlkkzaPpvPQKu,6.0,0.591,0.308,0.405,0.0931,0.0421,0.421,171.511,0,-9.177
+The Kingston Trio,"""Tom Dooley""",1,0BKqj97KsaXODXXyUSwywg,0.0,0.841,0.562,0.163,0.394,0.238,0.723,130.273,2.53e-05,-22.405
+Bobby Lewis,"""Tossin' and Turnin'""",7,3u5SZaF3w4YiKLsAG7Ec6C,0.0,0.247,0.576,0.716,0.129,0.0386,0.964,142.687,0,-8.914
+Ricky Nelson,"""Travelin' Man""",2,1rK4lyqFKYSDlycOO0rliQ,1.0,0.00516,0.733,0.64,0.123,0.0363,0.725,105.019,0,-7.054
+The Byrds,"""Turn! Turn! Turn!""",3,0mRCHV9IyP7JaFr8kINsVf,29.0,0.2,0.548,0.659,0.0487,0.0331,0.845,123.204,0,-9.648
+Frankie Avalon,"""Venus""",5,0oQZ00F4pUiXp26wINlETH,10.0,0.69,0.554,0.442,0.089,0.0288,0.816,114.751,2.97e-05,-12.046
+Domenico Modugno,"""Volare (Nel Blu Dipinto Di Blu)""",5,4FhLZDtynSvS3jB5SBiwEF,0.0,0.936,0.549,0.156,0.236,0.0433,0.534,128.027,4.36e-06,-10.016
+The Four Seasons,"""Walk Like A Man""",3,7KFQDE4Z9gzPj14cigx2E0,5.0,0.899,0.803,0.35,0.105,0.0568,0.368,120.075,0.295,-10.704
+The Rooftop Singers,"""Walk Right In""",2,4CO91a6GgnxjJhx23fe4BC,0.0,0.252,0.739,0.421,0.165,0.0364,0.929,131.792,0.00198,-14.304
+The Beatles,"""We Can Work It Out""",3,5Z33qDlzKOWDvSIMkWxdYn,5.0,0.535,0.443,0.449,0.195,0.0422,0.498,203.659,0,-7.759
+The 5th Dimension,"""Wedding Bell Blues""",3,5GPrX4cvBqrIDV3YXrIWaW,0.0,0.0184,0.681,0.38,0.254,0.0335,0.61,116.937,0.0206,-13.13
+Percy Sledge,"""When A Man Loves A Woman""",2,58wullwJKOgd2ePaso2WlT,29.0,0.227,0.58,0.334,0.101,0.0442,0.457,70.66,1.01e-06,-11.141
+The Supremes,"""Where Did Our Love Go""",2,7f2yFdjdP76u73AmU88tFW,17.0,0.287,0.53,0.48,0.418,0.0321,0.566,137.311,0,-7.581
+Frankie Avalon,"""Why""",1,2gT6fv21K0GvM3NVLm3Duy,0.0,0.798,0.48,0.311,0.193,0.0264,0.646,94.02,0,-10.652
+The Troggs,"""Wild Thing""",2,3F8dMVlS1cgS2TbFDty81a,10.0,0.609,0.431,0.795,0.0454,0.32,0.619,204.648,0.0685,-7.3
+The Shirelles,"""Will You Love Me Tomorrow""",2,0bwy3sGHeYwng2Ioicq6wf,9.0,0.312,0.55,0.382,0.221,0.0263,0.464,136.128,1.11e-05,-6.429
+The New Vaudeville Band,"""Winchester Cathedral""",3,1JzniTjlKLcVOJnc4PHkw6,0.0,0.222,0.796,0.853,0.172,0.0326,0.935,127.034,0.0113,-6.057
+The Association,"""Windy""",4,6A0HpdlSOkyg9pRT9Awmue,17.0,0.776,0.51,0.544,0.144,0.0282,0.598,110.197,0,-8.308
+Bert Kaempfert,"""Wonderland by Night""",3,4dTtNAnb0HTGeL6BAFU49G,3.0,0.594,0.276,0.298,0.114,0.0307,0.255,115.554,0.88,-7.756
+Joe Dowell,"""Wooden Heart (Muss I Denn)""",1,,,,,,,,,,,
+The Beatles,"""Yesterday""",4,,,,,,,,,,,
+The Supremes,"""You Can't Hurry Love""",2,1Tbc2Z8E3CiUhvit22Rrr6,17.0,0.564,0.45,0.837,0.102,0.202,0.57,195.506,0,-6.087
+The Supremes,"""You Keep Me Hangin' On""",2,526Y0ij0QMa0L4J0ZtyqPV,15.0,0.597,0.68,0.605,0.256,0.0383,0.83,127.05,0,-6.888
+The Righteous Brothers,"""You've Lost That Lovin' Feelin'""",2,4ItkP0yv5ScUiSP8g2nuBn,17.0,0.691,0.429,0.238,0.239,0.038,0.507,138.154,0,-15.643
