@@ -39,7 +39,22 @@ Through our analysis, we strongly believe that there is no overall significant d
 
 ## Data Mining, Cleanup, and Exploration
 
+### Mining
+
 * Utilized wrappers for Billboard API(Billboard.py) and Spotify API (Spotipy)
+
+* The full list of songs (excluding duplicates) pulled from the Billboard API was over 28,000.
+
+* As Spotify does not have a universal naming system for tracks/artists, **fuzzy matching** was utilized in order to match up the data from the Billboard Hot 100 into the Spotify API.
+ * Fuzzy matching is a method that provides an improved ability to process string-based matching queries to find matching phrases or sentences from a database.
+ * Fuzzy ratio is based on Levenshtein distance (LD) which is a measure of the similarity between two strings, which we will refer to as the source string (s) and the target string (t). The distance is the number of deletions, insertions, or substitutions required to transform s into t.
+ * A fuzzy ratio threshold of 75 was used for our matching.
+
+
+* Ran into issues with the Spotify API timing out while trying to request metrics for so many tracks. The retrieval process was broken into separate loops and different API keys needed to be swapped in to continue.
+ * Even if the Spotify API was responding, not all of the songs returned metrics.
+
+### Cleanup
 
 * The Billboard non-number one list was parsed down from 28,00 to 20,040 songs of which were able to retrieve metrics from the Spotify API. The final Billboard number one list with metrics was 857 songs.
 
