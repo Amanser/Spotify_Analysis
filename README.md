@@ -24,3 +24,8 @@ All metrics are scored based on a confidence measure from 0.0 to 1.0
 **Speechiness:** Detects the presence of spoken words in a track. The more exclusively speech-like the recording (i.e. talk show, audio book, poetry), the closer the attribute value is to 1.0.
 
 **Liveness:** Detects the presence of an audience in the recording. Higher liveness values represent an increased probability that the track was performed live. A value above 0.8 provides a strong likelihood that the track is live.
+
+## Hypothesis
+
+**H <sub>0</sub>:** There is no difference in Spotify song features between songs that have been number one and have not been number one on the Billboard Hot 100 list since 1958.
+
