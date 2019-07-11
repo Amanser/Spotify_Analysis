@@ -37,11 +37,16 @@ All metrics are scored based on a confidence measure from 0.0 to 1.0
 Through our analysis, we strongly believe that there is no overall significant difference in the song metrics between songs that claimed the number one spot on the Billboard Hot 100 and songs that were on the Billboard Hot 100, but never reached number one.
 
 
-## Data Cleanup & Exploration
+## Data Mining, Cleanup, and Exploration
 
 * Utilized wrappers for Billboard API(Billboard.py) and Spotify API (Spotipy)
 
-* The Billboard non-number one list was parsed down to 20,040 songs from 28,000 of which were able to retrieve metrics from the Spotify API. The Billboard number one list with metrics was 857 songs.
+* The Billboard non-number one list was parsed down from 28,00 to 20,040 songs of which were able to retrieve metrics from the Spotify API. The final Billboard number one list with metrics was 857 songs.
+
+* Not all of the songs in the Spotify catalog are the originals. Some are remasters or greatest hits editions.
+  * These may sound similar to the human ear, but the Spotify API returns different metrics.
+  
+
 
 
 
