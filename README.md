@@ -4,7 +4,7 @@
 
 * A collaborative effort between Austen Manser, [William Nash](https://github.com/wwenash), and Cody Braun
 
-* Data analysis exploring the relationship between the audio features of songs that made it to the number one spot on the Billboard 100 list and songs that did not.
+* Data analysis exploring the relationship between the audio features of songs that made it to the number one spot on the Billboard Hot 100 list and songs that did not.
 
 
 ## Song Metrics Explained
@@ -38,8 +38,11 @@ All metrics are scored based on a confidence measure from 0.0 to 1.0
 Through our analysis, we strongly believe that there is no overall significant difference in the song metrics between songs that claimed the number one spot on the Billboard Hot 100 and songs that were on the Billboard Hot 100, but never reached number one.
 
 
+## Data Cleanup & Exploration
 
+* Utilized wrappers for Billboard API(Billboard.py) and Spotify API (Spotipy)
 
+* The Billboard non-number one list was parsed down to 20,040 songs from 28,000 of which were able to retrieve metrics from the Spotify API. The Billboard number one list with metrics was 857 songs.
 
 
 
