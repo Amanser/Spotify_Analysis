@@ -25,7 +25,29 @@ All metrics are scored based on a confidence measure from 0.0 to 1.0
 
 **Liveness:** Detects the presence of an audience in the recording. Higher liveness values represent an increased probability that the track was performed live. A value above 0.8 provides a strong likelihood that the track is live.
 
+
 ## Hypothesis
 
-**H <sub>0</sub>:** There is no difference in Spotify song features between songs that have been number one and have not been number one on the Billboard Hot 100 list since 1958.
+**H<sub>0</sub>:** There is no difference in Spotify song features between songs that have been number one and have not been number one on the Billboard Hot 100 list since 1958.
+
+**H<sub>1</sub>:** There is a correlation between Spotify song metrics (Popularity, Danceability, Valence, etc.) on number one songs on the Billboard Hot 100 since 1958 and songs that did not make number one on Billboard Hot 100.
+
+
+## Quick Summary
+
+Through our analysis, we strongly believe that there is no overall significant difference in the song metrics between songs that claimed the number one spot on the Billboard Hot 100 and songs that were on the Billboard Hot 100, but never reached number one.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
