@@ -67,7 +67,13 @@ for x in range(len(results["tracks"]["items"])):
 * The Billboard non-number one list was parsed down from 28,00 to 20,040 songs of which were able to retrieve metrics from the Spotify API. The final Billboard number one list with metrics was 857 songs.
 
 
-  
+## Findings
+
+Our Null hypothesis was confirmed in that there is no statistical difference in song metrics of tracks that were number one on the Billboard Hot 100 and those songs that never reached the number one position.
+ * The only metric that returned a p-value of less that 0.005 was Acousticness.
+
+![Image](https://github.com/Amanser/Spotify_Analysis/blob/master/SongMetrics_Presentation/Images/Dataframe_pvals.PNG)
+
 
 
 
