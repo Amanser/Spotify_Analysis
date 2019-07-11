@@ -81,9 +81,8 @@ When the songs are binned by decade, there arises some statistical significance 
 ![Image](https://github.com/Amanser/Spotify_Analysis/blob/master/SongMetrics_Presentation/Images/Decades_pvals.png)
 
 
+
 Box and whisker plots of the data ranges of the confidence measures for the entire history of the Billboard Hot 100
-
-
 ![Image](https://github.com/Amanser/Spotify_Analysis/blob/master/SongMetrics_Presentation/Images/number1_vs_non_overall.png)
 
 
