@@ -46,6 +46,19 @@ Through our analysis, we strongly believe that there is no overall significant d
 * The full list of songs (excluding duplicates) pulled from the Billboard API was over 28,000.
 
 * As Spotify does not have a universal naming system for tracks/artists, **fuzzy matching** was utilized in order to match up the data from the Billboard Hot 100 into the Spotify API.
+```
+from fuzzywuzzy import fuzz
+
+for x in range(len(results["tracks"]["items"])):
+            song = results["tracks"]["items"][x]["name"]
+            artist = results["tracks"]["items"][x]["artists"][0]["name"]
+            search_song_name.append(song+", "+artist)
+            search_match_score.append(fuzz.ratio(test_song,song+","+artist))
+            search_match_score_song.append(fuzz.ratio(csv_df.iloc[i,1],song))
+            search_match_score_artist.append(fuzz.ratio(csv_df.iloc[i,2],artist))
+```
+
+
   * Fuzzy matching is a method that provides an improved ability to process string-based matching queries to find matching phrases or sentences from a database.
   * Fuzzy ratio is based on Levenshtein distance (LD) which is a measure of the similarity between two strings, which we will refer to as the source string (s) and the target string (t). The distance is the number of deletions, insertions, or substitutions required to transform s into t.
   * A fuzzy ratio threshold of 75 was used for our matching.
