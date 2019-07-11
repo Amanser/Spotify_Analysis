@@ -51,15 +51,14 @@ Through our analysis, we strongly believe that there is no overall significant d
   * A fuzzy ratio threshold of 75 was used for our matching.
 
 
-* Ran into issues with the Spotify API timing out while trying to request metrics for so many tracks. The retrieval process was broken into separate loops and different API keys needed to be swapped in to continue.
- * Even if the Spotify API was responding, not all of the songs returned metrics.
+* Further issues arose with the Spotify API timing out while trying to request metrics for so many tracks. The retrieval process was broken into separate loops and different API keys needed to be swapped in to continue.
+  * Even if the Spotify API was responding, not all of the songs returned metrics.
 
 ### Cleanup
 
 * The Billboard non-number one list was parsed down from 28,00 to 20,040 songs of which were able to retrieve metrics from the Spotify API. The final Billboard number one list with metrics was 857 songs.
 
-* Not all of the songs in the Spotify catalog are the originals. Some are remasters or greatest hits editions.
-  * These may sound similar to the human ear, but the Spotify API returns different metrics.
+
   
 
 
