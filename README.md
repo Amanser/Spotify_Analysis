@@ -2,7 +2,7 @@
 
 # Spotify Song Metric Analysis
 
-* A collaborative effort between Austen Manser, William Nash, and Cody Braun
+* A collaborative effort between Austen Manser, [William Nash](https://github.com/wwenash), and Cody Braun
 
 * Data analysis exploring the relationship between the audio features of songs that made it to the number one spot on the Billboard 100 list and songs that did not.
 
