@@ -69,13 +69,15 @@ for x in range(len(results["tracks"]["items"])):
 
 ## Findings
 
-Our Null hypothesis was confirmed in that there is no statistical difference in song metrics of tracks that were number one on the Billboard Hot 100 and those songs that never reached the number one position.
+Overall, our Null hypothesis was confirmed in that there is no statistical difference in song metrics of tracks that were number one on the Billboard Hot 100 and those songs that never reached the number one position.
  * The only metric that returned a p-value of less that 0.005 was Acousticness.
 
 ![Image](https://github.com/Amanser/Spotify_Analysis/blob/master/SongMetrics_Presentation/Images/Dataframe_pvals.PNG)
 
 
+When the songs are binned by decade, there arises some statistical significane among the different metrics.
 
+![Image](https://github.com/Amanser/Spotify_Analysis/blob/master/SongMetrics_Presentation/Images/Decades_pvals.png)
 
 
 
