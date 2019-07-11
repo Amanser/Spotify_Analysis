@@ -2,4 +2,10 @@
 
 # Spotify Song Metric Analysis
 
-* Data analysis exploring the relationship between the audio features of a song and how the song ranked on the Billboard 100 list.
+* A collaborative effort between Austen Manser, William Nash, and Cody Braun
+* Data analysis exploring the relationship between the audio features of songs that made it to the number one spot on the Billboard 100 list and songs that did not.
+
+
+## Song Metrics Explained
+
+
