@@ -77,10 +77,11 @@ Overall, our Null hypothesis was confirmed in that there is no statistical diffe
 
 When the songs are binned by decade, there arises some statistical significance among the different metrics.
 
+
 ![Image](https://github.com/Amanser/Spotify_Analysis/blob/master/SongMetrics_Presentation/Images/Decades_pvals.png)
 
 
-![Image](https://github.com/Amanser/Spotify_Analysis/blob/master/SongMetrics_Presentation/Images/Billboard_1_metrics1.png) ![Image](https://github.com/Amanser/Spotify_Analysis/blob/master/SongMetrics_Presentation/Images/Billboard_1_metrics2.png)
+![Image](https://github.com/Amanser/Spotify_Analysis/blob/master/SongMetrics_Presentation/Images/number1_vs_non_overall.png)
 
 
 
